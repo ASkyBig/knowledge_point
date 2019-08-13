@@ -1,4 +1,4 @@
-#### 知识点啊
+#### 知识点啊，小本子记下来：D
 
 ---
 [react](https://github.com/ASkyBig/blog/issues/8)
