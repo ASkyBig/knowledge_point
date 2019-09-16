@@ -1,4 +1,6 @@
 #### 知识点啊，小本子记下来：D
+---
+[git](https://github.com/ASkyBig/blog/issues/9)
 
 ---
 [react](https://github.com/ASkyBig/blog/issues/8)
