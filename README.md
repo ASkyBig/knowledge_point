@@ -1,5 +1,11 @@
 #### 知识点啊，小本子记下来：D
 ---
+[设计理念](https://github.com/ASkyBig/blog/issues/11)
+
+---
+[代码片段](https://github.com/ASkyBig/blog/issues/10)
+
+---
 [git](https://github.com/ASkyBig/blog/issues/9)
 
 ---
