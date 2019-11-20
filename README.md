@@ -1,5 +1,8 @@
 #### 知识点啊，小本子记下来：D
 ---
+[nodeJS](https://github.com/ASkyBig/blog/issues/13)
+
+---
 [正则](https://github.com/ASkyBig/blog/issues/12)
 
 ---
