@@ -3,6 +3,9 @@
 [MySql](https://github.com/ASkyBig/knowledge_point/issues/21)
 
 ---
+[Linux 命令](https://github.com/ASkyBig/knowledge_point/issues/20)
+
+---
 [antd](https://github.com/ASkyBig/knowledge_point/issues/18)
 
 ---
